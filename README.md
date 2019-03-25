@@ -1,1 +1,2 @@
 # TriviaGame
+In this game I created a timer that only allows you a few seconds to answer each question before you get it wrong. I have been listening to podcasts recently of Greek Mythology tales so I decided to make my game about that!

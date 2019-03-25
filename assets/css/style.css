@@ -1,0 +1,55 @@
+body {
+	background-image: url(../images/acropolos.jpg);
+	background-size: 100%;#9edad2
+}
+
+#header {
+	height: 45px;
+}
+
+#container {
+	background-image: url(../images/greek-architecture-that-changed-history.jpg);
+	border: 15px outset #406363;
+	height: 650px;
+
+}
+
+#title {
+	text-align: center;
+	color: rgb(175, 103, 112);
+
+}
+
+#title h1 {
+	font-size: 50px;
+	font-weight: bold;
+	border-bottom: 3px solid #a0522d;
+}
+
+#timer {
+	border-bottom: 3px solid #a0522d;
+	text-align: center;
+	color: #a0522d;
+	font-size: 25px;
+}
+
+#question {
+	display: block;
+	color: #c7403c;
+	text-align: center;
+	height: 150px;
+	margin-top: 2%;
+}
+
+.answerButtons {
+	margin-left: 127px;
+	margin-top: 86px;
+	height: 62px;
+	width: 315px;
+	font-size: 24px;
+	color: rgb(139, 55, 55);
+}
+
+#footer {
+	height: 15px;
+}
